@@ -1,0 +1,2 @@
+﻿INSERT INTO SuperHeroes (Name,FirstName,LastName,Place) VALUES ('SpiderMan','Peter','Parker','NewYork')
+INSERT INTO SuperHeroes (Name,FirstName,LastName,Place) VALUES ('IronMan','Tony','Stark','LongIsland')
